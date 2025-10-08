@@ -4,6 +4,7 @@ const NAV_LINKS = [
     { href: '#projects', label: 'Projects' },
 ];
 
+// test
 function Navbar() {
     return (
         <nav className="navbar" aria-label="Main navigation">
